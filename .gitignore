@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.a
+*.lib
+build/
+.DS_Store
+*.swp
+*.swo
